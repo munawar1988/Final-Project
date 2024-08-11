@@ -33,7 +33,7 @@ How to Run: Use the following command to launch the final Streamlit app
 Streamlit run final.py
 
 ### **Additional Information**
-Full Code Access: View the complete code on @@
+Full Code Access: View the complete code on **https://mega.nz/folder/dUFSULKL#TpybI7IzAg1Fxfocm6fhQw**
 Included Files: The final app folder includes model files, datasets, and label encoders.
-Contributing
+### Contributing
 Contributions to the project are welcome. Please submit pull requests or open issues for any questions or suggestions.
