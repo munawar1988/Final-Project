@@ -32,7 +32,7 @@ Note: The model, datasets, and label encoders are included due to their large si
 How to Run: Use the following command to launch the final Streamlit app
 Streamlit run final.py
 
-Additional Information
+### **Additional Information**
 Full Code Access: View the complete code on @@
 Included Files: The final app folder includes model files, datasets, and label encoders.
 Contributing
